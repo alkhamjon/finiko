@@ -1,1 +1,1 @@
-# finiko
+https://alkhamjon.github.io/finiko/
